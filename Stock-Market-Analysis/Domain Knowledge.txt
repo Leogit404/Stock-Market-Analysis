@@ -1,0 +1,4 @@
+Stock market analysis involves evaluating financial data to understand trends, assess the performance of companies, and make informed investment decisions. It consists of two primary approaches:
+Fundamental Analysis: Focuses on a company's intrinsic value by analyzing financial statements, earnings, and economic indicators. Key metrics include Price-to-Earnings (P/E) ratio, Earnings per Share (EPS), and dividend yield.
+Technical Analysis: Studies historical market data like price movements and trading volume to predict future trends. Common tools include moving averages, Bollinger Bands, and the Relative Strength Index (RSI).
+Stock prices are influenced by factors such as economic conditions, corporate earnings, market sentiment, and industry trends. Investors use these analyses to navigate bull (rising) and bear (falling) markets, manage risks, and capitalize on opportunities.
